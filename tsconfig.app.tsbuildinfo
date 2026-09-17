@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/filterbar.tsx","./src/components/taginput.tsx","./src/components/taskcard.tsx","./src/components/taskcolumn.tsx","./src/components/taskform.tsx","./src/context/appcontext.tsx"],"version":"5.6.3"}
